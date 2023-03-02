@@ -1,0 +1,28 @@
+#PT/BR
+CONTROLES
+Mouse:
+	Botão ESQUERDO: Seleciona
+	Botão DIREITO: Rotaciona
+
+Fase INICIAL:
+	Coloque os seus navios nos locais desejados, enquanto o adversário não estiver olhando
+Fase de ATAQUE
+	Atire uma bomba em uma área desejada para destruir os navios inimigos. 
+
+Quem derrotar todos os navios inimigos ganha!
+
+# ENGLISH
+CONTROLS
+Mouse:
+	Button LEFT: Select
+	Button RIGHT: Rotate
+
+Stage INITIAL:
+	Put your ships in wished places, when your adversary is not seeing
+Stage of ATTACK:
+	Shoot a bomb in wished place to destroy enemy's ships. 
+
+Who defeat all enemy's ships win!
+
+
+
